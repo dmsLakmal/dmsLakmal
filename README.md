@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **C#,Angular,Python,Django,Asp.net Core**
 
-📫 How to reach me **Sujithlakmal.mga@gmail.com**
+📫 How to reach me: **Sujithlakmal.mga@gmail.com**
 
 ⚡ Fun fact **Passinate about coding**
 <br>
