@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujith Lakmal</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmslakmal&label=Profile%20views&color=0e75b6&style=flat" alt="dmslakmal" /> </p>
+
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 <h3><u>👨🏽‍💼 About Me</u></h3>
