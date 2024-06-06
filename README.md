@@ -4,6 +4,8 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmslakmal&label=Profile%20views&color=0e75b6&style=flat" alt="dmslakmal" /> </p>
+
 <h3><u>👨🏽‍💼 About Me</u></h3>
 
 ⚡ I'm Undergraduate at **Horizon Campus**
