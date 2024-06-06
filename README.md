@@ -8,15 +8,15 @@
 
 <h3><u>👨🏽‍💼 About Me</u></h3>
 
-⚡ I'm Undergraduate at **Horizon Campus**
+⚡ I'm Undergraduate at **Horizon Campus, Malabe, Sri Lanka**
 
 🧑‍💻 I'm Curuntly working on **Full stack Software Development**
 
-🌱 I’m currently learning **C#,Angular,Python,Django,Asp.net Core**
+🌱 I’m currently learning **Django, Reactjs**
 
 📫 How to reach me: **Sujithlakmal.mga@gmail.com**
 
-⚡ Fun fact **Passinate about coding**
+⚡ Fun fact **Favourite Film Series Harry Potter**
 <br>
 
 ---
