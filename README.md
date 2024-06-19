@@ -16,7 +16,7 @@
 
 📫 How to reach me: **Sujithlakmal.mga@gmail.com**
 
-⚡ Fun fact **Favourite Film Series Harry Potter**
+⚡ **Favourite Film Series Harry Potter**
 <br>
 
 ---
