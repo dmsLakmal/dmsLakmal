@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmslakmal&label=Profile%20views&color=0e75b6&style=flat" alt="dmslakmal" /> </p>
 
-<h3><u>👨🏽‍💼 About Me</u></h3>
+<h3><u>👨🏽‍💼 Who I Am</u></h3>
 
-⚡ I'm Undergraduate at **Horizon Campus, Malabe, Sri Lanka**
+I am a passionate Full Stack Developer with expertise in building modern web applications that solve real-world problems. My development journey is driven by creating seamless user experiences while implementing robust backend systems. I specialize in JavaScript/TypeScript ecosystems with a focus on React and Next.js frameworks.
 
-🧑‍💻 I'm Curuntly working on **Full stack Software Development**
-
-🌱 I’m currently learning **Django, Reactjs**
-
-📫 How to reach me: **Sujithlakmal.mga@gmail.com**
-
-⚡ **Favourite Film Series Harry Potter**
+<h3><u>💼 What I Bring to the Table</u></h3>
+<p>⚡End-to-end application architecture and implementation.
+⚡Clean, maintainable code with modern best practices.
+⚡Experience with complex data flows and state management.
+⚡Integration of third-party services and APIs.
+⚡Focus on performance, security, and user experience.
+⚡Problem-solving mindset with attention to detail. </p>
 <br>
 
 ---
