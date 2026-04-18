@@ -25,7 +25,10 @@ I enjoy solving real-world problems, improving performance, and delivering maint
 JavaScript, TypeScript, React, Next.js, HTML, CSS
 
 **Backend & Databases**  
-Node.js, .NET, Java, Python, MySQL
+Node.js, .NET, Java, Python, MySQL, MongoDB, Mongoose
+
+**Next.js App Development Stack**  
+Next.js, TypeScript, MongoDB, Mongoose
 
 **Tools & Platforms**  
 Git, Figma, Android, Unity
