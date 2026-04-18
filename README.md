@@ -21,8 +21,11 @@ I enjoy solving real-world problems, improving performance, and delivering maint
 
 ## Tech Stack
 
+**Next.js App Development Stack**  
+Next.js, TypeScript, MongoDB, Mongoose, App Router, API Routes, Server Components, SSR, SSG, ISR, Tailwind CSS, Vercel
+
 **Frontend**  
-JavaScript, TypeScript, React, Next.js, HTML, CSS
+JavaScript, React, HTML, CSS
 
 **Backend & Databases**  
 Node.js, .NET, Java, Python, MySQL
